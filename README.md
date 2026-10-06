@@ -14,7 +14,7 @@ Then, we can do an **SYSTEM** token swap to get an **SYSTEM shell**.
 > Confirmed working on **Windows 11 build 26200**.
 
 > **Research/authorized testing only.** This project is published for defensive
-> research, vendor remediation and education. Do **not** run the PoC against
+> research and education. Do **not** run the PoC against
 > systems you do not own or are not explicitly authorized to test. See the
 > [Disclaimer](#disclaimer).
 
