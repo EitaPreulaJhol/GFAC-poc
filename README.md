@@ -18,7 +18,7 @@ Then, we can do an **SYSTEM** token swap to get an **SYSTEM shell**.
 > systems you do not own or are not explicitly authorized to test. See the
 > [Disclaimer](#disclaimer).
 
-## The vulnerabiliy itself
+## The vulnerability itself
 
 | Field | Value |
 |---|---|
